@@ -1,0 +1,21 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EWidgetDebugDataType.generated.h"
+
+UENUM(BlueprintType)
+enum class EWidgetDebugDataType : uint8 {
+    DEBUG_DATATYPE_UNKNOWN,
+    DEBUG_DATATYPE_EXEC,
+    DEBUG_DATATYPE_INT,
+    DEBUG_DATATYPE_FLOAT,
+    DEBUG_DATATYPE_BOOL,
+    DEBUG_DATATYPE_VECTOR,
+    DEBUG_DATATYPE_ROTATOR,
+    DEBUG_DATATYPE_COMBOBOX,
+    DEBUG_DATATYPE_SLIDER,
+    DEBUG_DATATYPE_SUBMENU,
+    DEBUG_DATATYPE_TEXTEDIT,
+    DEBUG_DATATYPE_DESC,
+    DEBUG_DATATYPE_MAX UMETA(Hidden),
+};
+

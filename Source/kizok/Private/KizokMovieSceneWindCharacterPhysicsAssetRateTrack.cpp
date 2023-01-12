@@ -1,0 +1,5 @@
+#include "KizokMovieSceneWindCharacterPhysicsAssetRateTrack.h"
+
+UKizokMovieSceneWindCharacterPhysicsAssetRateTrack::UKizokMovieSceneWindCharacterPhysicsAssetRateTrack() {
+}
+

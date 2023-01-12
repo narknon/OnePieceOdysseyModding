@@ -1,0 +1,5 @@
+#include "KizokMovieSceneLeftEyeHightlightRotationKeyStruct.h"
+
+FKizokMovieSceneLeftEyeHightlightRotationKeyStruct::FKizokMovieSceneLeftEyeHightlightRotationKeyStruct() {
+}
+

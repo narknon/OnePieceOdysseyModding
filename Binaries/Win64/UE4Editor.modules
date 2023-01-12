@@ -1,0 +1,8 @@
+{
+	"BuildId": "13144385",
+	"Modules": 
+	{
+		"EnlightenCore": "UE4Editor-EnlightenCore.dll",
+		"kizok": "UE4Editor-kizok.dll"
+	}
+}

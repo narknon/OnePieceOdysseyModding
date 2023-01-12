@@ -1,0 +1,5 @@
+#include "KizokMovieSceneWindCharacterBaseRateTemplateData.h"
+
+FKizokMovieSceneWindCharacterBaseRateTemplateData::FKizokMovieSceneWindCharacterBaseRateTemplateData() {
+}
+

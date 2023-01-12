@@ -1,0 +1,15 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "NOTIFY_TYPE.generated.h"
+
+UENUM(BlueprintType)
+enum NOTIFY_TYPE {
+    NOTIFY_BATTLE_ATK,
+    NOTIFY_BATTLE_START,
+    NOTIFY_BATTLE_ATK_CUT,
+    NOTIFY_BATTLE_RESULT_ED,
+    NOTIFY_BATTLE_RESULT_IN,
+    NOTIFY_BATTLE_RESULT_MD,
+    NOTIFY_BATTLE_MAX UMETA(Hidden),
+};
+

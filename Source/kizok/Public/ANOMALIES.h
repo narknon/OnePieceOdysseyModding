@@ -1,0 +1,24 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "ANOMALIES.generated.h"
+
+UENUM(BlueprintType)
+enum class ANOMALIES : uint8 {
+    STATUS_POISONED,
+    STATUS_BURNED,
+    STATUS_BLED,
+    STATUS_DAZZLED,
+    STATUS_MESMERISED,
+    STATUS_CONFUSED,
+    STATUS_SLEPT,
+    STATUS_FAINT,
+    STATUS_UFAINT,
+    STATUS_PARALYSED,
+    STATUS_ARRESTED,
+    STATUS_FROZEN,
+    STATUS_UFROZEN,
+    STATUS_STONED,
+    STATUS_UNFIGHTABLED,
+    STATUS_NONE = 0xFF,
+};
+

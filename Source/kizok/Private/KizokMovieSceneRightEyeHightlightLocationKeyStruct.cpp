@@ -1,0 +1,5 @@
+#include "KizokMovieSceneRightEyeHightlightLocationKeyStruct.h"
+
+FKizokMovieSceneRightEyeHightlightLocationKeyStruct::FKizokMovieSceneRightEyeHightlightLocationKeyStruct() {
+}
+

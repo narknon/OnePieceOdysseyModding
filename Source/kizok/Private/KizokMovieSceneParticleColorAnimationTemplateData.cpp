@@ -1,0 +1,5 @@
+#include "KizokMovieSceneParticleColorAnimationTemplateData.h"
+
+FKizokMovieSceneParticleColorAnimationTemplateData::FKizokMovieSceneParticleColorAnimationTemplateData() {
+}
+

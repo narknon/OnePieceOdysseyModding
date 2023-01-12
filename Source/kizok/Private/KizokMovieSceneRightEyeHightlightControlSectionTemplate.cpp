@@ -1,0 +1,5 @@
+#include "KizokMovieSceneRightEyeHightlightControlSectionTemplate.h"
+
+FKizokMovieSceneRightEyeHightlightControlSectionTemplate::FKizokMovieSceneRightEyeHightlightControlSectionTemplate() {
+}
+

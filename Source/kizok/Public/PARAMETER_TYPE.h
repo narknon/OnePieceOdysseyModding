@@ -1,0 +1,46 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "PARAMETER_TYPE.generated.h"
+
+UENUM(BlueprintType)
+enum class PARAMETER_TYPE : uint8 {
+    NONE,
+    HP,
+    SP,
+    HITRATE,
+    ATTACK,
+    DEFENSE,
+    LUCK,
+    GAUGE,
+    STRIKE,
+    SLASH,
+    THRUST,
+    BULLET,
+    FIRE,
+    FREEZE,
+    ELECTRIC,
+    SLEEP,
+    STUN,
+    PARALYSIS,
+    POISON,
+    CONFUSE,
+    CHARM,
+    DAZZLE,
+    BLOWOFF,
+    JOKE,
+    BIND,
+    ALL,
+    RANGE,
+    ATK_RESIST,
+    AILMENT_RESIST,
+    AILMENT_INVALID,
+    CRITICAL,
+    AVOID,
+    KIZUNA,
+    SPRATE,
+    SPADD,
+    HPADD,
+    DEFINITELY_CRITICAL_HIT,
+    PARAMETER_MAX UMETA(Hidden),
+};
+

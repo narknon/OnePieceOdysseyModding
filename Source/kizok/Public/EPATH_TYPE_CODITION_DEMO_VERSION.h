@@ -1,0 +1,14 @@
+#pragma once
+#include "CoreMinimal.h"
+#include "EPATH_TYPE_CODITION_DEMO_VERSION.generated.h"
+
+UENUM(BlueprintType)
+enum EPATH_TYPE_CODITION_DEMO_VERSION {
+    MAIN_STORY_DETAILS_L10N,
+    MAIN_STORY_TARGET_L10N,
+    MAIN_STORY_GUIDE_L10N,
+    CHARA_BOOK_L10N,
+    ENEMY_BOOK_L10N,
+    LICENCE_TEXTURE,
+};
+
