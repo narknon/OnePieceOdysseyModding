@@ -130,6 +130,7 @@
 # Ignore content folders except mats
 !Content/Base/**
 !Content/Character/**
+!Content/Decook.uasset
 
 !USMAP/*
 
