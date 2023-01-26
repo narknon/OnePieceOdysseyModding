@@ -1,8 +1,5 @@
 #include "KizokFaceIconManager.h"
 
-class UTexture;
-class UImage;
-class UMaterialInstanceDynamic;
 
 UTexture* UKizokFaceIconManager::GetFaceIconTexture(const FName InFaceId) {
     return NULL;

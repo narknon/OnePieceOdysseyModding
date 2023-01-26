@@ -1,15 +1,5 @@
 #include "KizokAccessoryEquipMenu.h"
 
-class UKizokUserWidget;
-class UKizokButtonWidget;
-class UKizokAccessoryEquipBoardWidget;
-class UImage;
-class UScrollBox;
-class UCanvasPanel;
-class UVerticalBox;
-class UTexture2D;
-class UMaterialInstanceDynamic;
-
 int32 UKizokAccessoryEquipMenu::SortAccessoryList() {
     return 0;
 }
@@ -40,28 +30,6 @@ void UKizokAccessoryEquipMenu::RegisterAccessoryBoard(UCanvasPanel* InBoard, int
 
 void UKizokAccessoryEquipMenu::RegisterAbilityWidget(UKizokUserWidget* InWidget) {
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 void UKizokAccessoryEquipMenu::MouseWheelOnBoard(float InWheelDelta) {

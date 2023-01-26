@@ -1,16 +1,6 @@
 #include "KizokUserWidget.h"
 #include "KizokSEComponent.h"
 
-class UUserWidget;
-class UKizokUserWidget;
-class UKizokButtonWidget;
-class UImage;
-class UPanelWidget;
-class UScrollBox;
-class UHorizontalBox;
-class UWidgetAnimation;
-class UVerticalBox;
-class UMaterialInstanceDynamic;
 
 void UKizokUserWidget::StopSound(int32 Handle) {
 }

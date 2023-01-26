@@ -4,9 +4,6 @@
 #include "KizokSkeletalMeshComponent.h"
 #include "KizokSoundComponent.h"
 
-class AActor;
-class USkeletalMeshComponent;
-class UAnimationAsset;
 
 void AKizokActorBase::SetPlayTime(float Frame, int32 slot) {
 }
