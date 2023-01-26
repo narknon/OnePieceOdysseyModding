@@ -5,7 +5,6 @@ public class odysseyTarget : TargetRules {
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		ExtraModuleNames.AddRange(new string[] {
-			"EnlightenCore",
 			"kizok",
 		});
 	}

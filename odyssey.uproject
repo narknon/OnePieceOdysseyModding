@@ -12,13 +12,9 @@
 				"Engine",
 				"AIModule",
 				"UMG",
-				"CoreUObject"
+				"CoreUObject",
+				"EnlightenCore"
 			]
-		},
-		{
-			"Name": "EnlightenCore",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [

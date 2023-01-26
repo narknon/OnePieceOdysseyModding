@@ -16,7 +16,7 @@
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE4+Release-4.25",
-		"BuildId": "88594066-d929-4279-9b37-5fd9cfe797e1",
+		"BuildId": "db66e7ea-fcf9-4759-8d93-c1742b045441",
 		"BuildVersion": ""
 	},
 	"BuildProducts": [
@@ -1090,14 +1090,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-EnlightenCore.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UE4Editor-EnlightenCore.pdb",
 			"Type": "SymbolFile"
 		},
 		{
@@ -4018,6 +4010,14 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-GeometryCollectionEngine.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-EnlightenCore.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Binaries/Win64/UE4Editor-EnlightenCore.pdb",
 			"Type": "SymbolFile"
 		},
 		{
