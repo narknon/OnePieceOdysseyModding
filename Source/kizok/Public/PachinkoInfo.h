@@ -1,17 +1,12 @@
 #pragma once
 #include "CoreMinimal.h"
+#include "Enlighten/EnlightenInstanceId.h"
 //CROSS-MODULE INCLUDE V2: -ModuleName=Engine -ObjectName=EnlightenInstanceId -FallbackName=EnlightenInstanceId
 #include "PachinkoInfo.generated.h"
 
 class USphereComponent;
 class AKizokEffectParticle2;
 
-
-USTRUCT(BlueprintType)
-struct FEnlightenInstanceId
-{
-    GENERATED_BODY()
-};
 
 USTRUCT(BlueprintType)
 struct FPachinkoInfo {
